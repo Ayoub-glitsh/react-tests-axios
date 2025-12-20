@@ -6,7 +6,7 @@
 # ⚛️ React Tests avec Axios
 
 <p align="center">
-  <img src="assets/images/logo.png" width="180">
+  <img src="assets/images/axios.png" width="180">
 </p>
     
 Application React avec des tests unitaires utilisant Axios pour les appels API.
