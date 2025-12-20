@@ -56,5 +56,9 @@ Application React avec des tests unitaires utilisant Axios pour les appels API.
 ---------
 
 **Ayoub Aguezar**
-![Celebration](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRjZ3Z6Z2Z4aTQ3aWZxZ2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2Z2/giphy.gif)
+
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1oM200amhuMG5oMXdqN2R3ejk0eW1ldDF0YWEzank0NmQ0MGI3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tlawNnswcTAmGjKRHQ/200.webp" />
+</p>
 
